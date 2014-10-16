@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bca:home|Door43 (bca)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bca|d43-bca repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bca/archive/master.zip|d43-bca.zip]]
+
+**Recent Changes**
+{{changes>ns = bca}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bca|Ethnologue data]]
+
